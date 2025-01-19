@@ -671,11 +671,35 @@
       }
     },
     "65": {
-      "title": "64.5: Side Story 11",
+      "title": "65",
       "volume": "4",
-      "last_updated": "1737295010",
+      "last_updated": "1737295098",
       "groups": {
-        "": "/proxy/api/imgur/chapter/iozHXix"
+        "": "/proxy/api/imgur/chapter/T97nhwy"
+      }
+    },
+    "66": {
+      "title": "66",
+      "volume": "4",
+      "last_updated": "1737295112",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TOhHDak"
+      }
+    },
+    "67": {
+      "title": "67",
+      "volume": "4",
+      "last_updated": "1737295119",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/vOVYxFn"
+      }
+    },
+    "68": {
+      "title": "68",
+      "volume": "4",
+      "last_updated": "1737295125",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/7rK6SNp"
       }
     },
     "30.5": {
@@ -788,6 +812,14 @@
       "last_updated": "1737294982",
       "groups": {
         "": "/proxy/api/imgur/chapter/1c8as3G"
+      }
+    },
+    "64.5": {
+      "title": "64.5: Side Story 11",
+      "volume": "4",
+      "last_updated": "1737295079",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/iozHXix"
       }
     }
   }
