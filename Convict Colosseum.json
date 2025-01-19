@@ -387,6 +387,161 @@
         "": "/proxy/api/imgur/chapter/aUrJSQn"
       }
     },
+    "31": {
+      "title": "31",
+      "volume": "2",
+      "last_updated": "1737294269",
+      "groups": {
+        "": [
+          "https://i.imgur.com/ef5qTB8.png",
+          "https://i.imgur.com/3nneWra.png",
+          "https://i.imgur.com/VMvRe8f.png",
+          "https://i.imgur.com/63c8p8x.png",
+          "https://i.imgur.com/g5rVXRd.png",
+          "https://i.imgur.com/3i7h7db.png",
+          "https://i.imgur.com/LVF0cel.png",
+          "https://i.imgur.com/q71XZJz.png",
+          "https://i.imgur.com/1kh4aP4.png",
+          "https://i.imgur.com/OAQKcOK.png"
+        ]
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "2",
+      "last_updated": "1737294338",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IY3EhH5"
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "2",
+      "last_updated": "1737294355",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8gkwAHG"
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "2",
+      "last_updated": "1737294390",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/y6PkAWe"
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "2",
+      "last_updated": "1737294399",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8FQNAjc"
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "2",
+      "last_updated": "1737294412",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KDa4Hko"
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "2",
+      "last_updated": "1737294420",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hGr4rPv"
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "2",
+      "last_updated": "1737294435",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lEaoujQ"
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "2",
+      "last_updated": "1737294457",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/89BMduU"
+      }
+    },
+    "40": {
+      "title": "40",
+      "volume": "2",
+      "last_updated": "1737294533",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lyMYXA0"
+      }
+    },
+    "41": {
+      "title": "41",
+      "volume": "2",
+      "last_updated": "1737294542",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Xlpz88c"
+      }
+    },
+    "42": {
+      "title": "42",
+      "volume": "2",
+      "last_updated": "1737294552",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/amQZfWx"
+      }
+    },
+    "43": {
+      "title": "43",
+      "volume": "2",
+      "last_updated": "1737294563",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/OxdhUNE"
+      }
+    },
+    "44": {
+      "title": "44",
+      "volume": "2",
+      "last_updated": "1737294580",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BIJkZ1q"
+      }
+    },
+    "45": {
+      "title": "45",
+      "volume": "3",
+      "last_updated": "1737294647",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CIE8YV6"
+      }
+    },
+    "46": {
+      "title": "46",
+      "volume": "3",
+      "last_updated": "1737294660",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/qo3RZ1P"
+      }
+    },
+    "47": {
+      "title": "47",
+      "volume": "3",
+      "last_updated": "1737294670",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hW9NB37"
+      }
+    },
+    "48": {
+      "title": "48",
+      "volume": "3",
+      "last_updated": "1737294680",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BECLMFu"
+      }
+    },
     "30.5": {
       "title": "30.5:  Side Story 01",
       "volume": "2",
@@ -441,6 +596,30 @@
           "https://i.imgur.com/zK5GpkD.png",
           "https://i.imgur.com/jVyE5Qw.png"
         ]
+      }
+    },
+    "44.5": {
+      "title": "44.5: Side Story 4",
+      "volume": "2",
+      "last_updated": "1737294591",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3bptbbs"
+      }
+    },
+    "44.6": {
+      "title": "44.6: Side Story 5",
+      "volume": "2",
+      "last_updated": "1737294605",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/y8u0kve"
+      }
+    },
+    "44.7": {
+      "title": "44.7: Side Story 6",
+      "volume": "2",
+      "last_updated": "1737294619",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hJUlhnv"
       }
     }
   }
