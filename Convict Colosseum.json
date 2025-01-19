@@ -5,6 +5,23 @@
   "author": "Pinakanaka",
   "cover": "https://i.imgur.com/xNmulxm.png",
   "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "2",
+      "last_updated": "1737293867",
+      "groups": {
+        "": [
+          "https://i.imgur.com/q5f8dQd.png",
+          "https://i.imgur.com/kmrEyLM.png",
+          "https://i.imgur.com/mSYuDuy.png",
+          "https://i.imgur.com/bMUxhld.jpeg",
+          "https://i.imgur.com/JcFB6LQ.png",
+          "https://i.imgur.com/qxKhL1k.png",
+          "https://i.imgur.com/BnaPIZV.png",
+          "https://i.imgur.com/dCQFoUJ.png"
+        ]
+      }
+    },
     "1": {
       "title": "1",
       "volume": "1",
@@ -368,6 +385,62 @@
       "last_updated": "1737293519",
       "groups": {
         "": "/proxy/api/imgur/chapter/aUrJSQn"
+      }
+    },
+    "30.5": {
+      "title": "30.5:  Side Story 01",
+      "volume": "2",
+      "last_updated": "1737293697",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/nN1YUpz"
+      }
+    },
+    "30.6": {
+      "title": "30.6: Side Story 2",
+      "volume": "2",
+      "last_updated": "1737293725",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hHGr8Oi"
+      }
+    },
+    "30.7": {
+      "title": "30.7: Side Story 3",
+      "volume": "2",
+      "last_updated": "1737293953",
+      "groups": {
+        "": [
+          "https://i.imgur.com/kIsq2ja.png",
+          "https://i.imgur.com/9G8YmXR.png",
+          "https://i.imgur.com/GJDUmFz.png",
+          "https://i.imgur.com/CE5wVuK.png",
+          "https://i.imgur.com/28jFhhY.png",
+          "https://i.imgur.com/yFkIlYh.png",
+          "https://i.imgur.com/YeF4sJ9.png",
+          "https://i.imgur.com/EEJvFzx.png",
+          "https://i.imgur.com/RZJ3KaO.png",
+          "https://i.imgur.com/W8MMgnW.png",
+          "https://i.imgur.com/wTTGyKd.png",
+          "https://i.imgur.com/K1B3QZ8.png",
+          "https://i.imgur.com/jMoZmnN.png",
+          "https://i.imgur.com/lKZAQQc.png",
+          "https://i.imgur.com/U4K8E35.png",
+          "https://i.imgur.com/W5kJPjX.png",
+          "https://i.imgur.com/iExyPl0.png",
+          "https://i.imgur.com/bDOqSO3.png",
+          "https://i.imgur.com/9OclpBg.png",
+          "https://i.imgur.com/grTWi7O.png",
+          "https://i.imgur.com/Vk0iHAV.png",
+          "https://i.imgur.com/xVB0nA1.png",
+          "https://i.imgur.com/PDvjkxQ.png",
+          "https://i.imgur.com/q5IQ2VO.png",
+          "https://i.imgur.com/tmpgQR7.png",
+          "https://i.imgur.com/IANj1WN.png",
+          "https://i.imgur.com/enIRl47.png",
+          "https://i.imgur.com/ITrKmxX.png",
+          "https://i.imgur.com/SCMafA8.png",
+          "https://i.imgur.com/zK5GpkD.png",
+          "https://i.imgur.com/jVyE5Qw.png"
+        ]
       }
     }
   }
