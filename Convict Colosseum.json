@@ -265,6 +265,110 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/HRPXmSU"
       }
+    },
+    "18": {
+      "title": "18",
+      "volume": "2",
+      "last_updated": "1737293387",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ELldyIM"
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "2",
+      "last_updated": "1737293407",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/WlLOsFA"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "2",
+      "last_updated": "1737293421",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CN4vVV6"
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "2",
+      "last_updated": "1737293430",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/wTl6aWg"
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "2",
+      "last_updated": "1737293439",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AV36HfA"
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "2",
+      "last_updated": "1737293449",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/GBt1oa9"
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "2",
+      "last_updated": "1737293457",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/A378bvx"
+      }
+    },
+    "25": {
+      "title": "25",
+      "volume": "2",
+      "last_updated": "1737293465",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZwPjf4t"
+      }
+    },
+    "26": {
+      "title": "26",
+      "volume": "2",
+      "last_updated": "1737293479",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/YjtbChB"
+      }
+    },
+    "27": {
+      "title": "27",
+      "volume": "2",
+      "last_updated": "1737293491",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/sDvft29"
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "2",
+      "last_updated": "1737293499",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/RezLkDU"
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "2",
+      "last_updated": "1737293511",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EBJSDTc"
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "2",
+      "last_updated": "1737293519",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aUrJSQn"
+      }
     }
   }
 }
