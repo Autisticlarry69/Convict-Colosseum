@@ -671,7 +671,7 @@
       }
     },
     "65": {
-      "title": "65",
+      "title": "Round 4, Match 1",
       "volume": "4",
       "last_updated": "1737295098",
       "groups": {
@@ -679,7 +679,7 @@
       }
     },
     "66": {
-      "title": "66",
+      "title": "Round 4, Match 1",
       "volume": "4",
       "last_updated": "1737295112",
       "groups": {
@@ -687,7 +687,7 @@
       }
     },
     "67": {
-      "title": "67",
+      "title": "Round 4, Match 1",
       "volume": "4",
       "last_updated": "1737295119",
       "groups": {
@@ -695,7 +695,7 @@
       }
     },
     "68": {
-      "title": "68",
+      "title": "Round 4, Match 1",
       "volume": "4",
       "last_updated": "1737295125",
       "groups": {
@@ -703,7 +703,7 @@
       }
     },
     "69": {
-      "title": "69",
+      "title": "Round 4, Match 1",
       "volume": "4",
       "last_updated": "1737467708",
       "groups": {
@@ -828,6 +828,14 @@
       "last_updated": "1737295079",
       "groups": {
         "": "/proxy/api/imgur/chapter/iozHXix"
+      }
+    },
+    "68.69": {
+      "title": "Kengan Ashura/Convict Colosseum Alternate Timeline",
+      "volume": "4",
+      "last_updated": "1738205809",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5AUk5Fh"
       }
     }
   }
