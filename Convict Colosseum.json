@@ -726,6 +726,14 @@
         "": "/proxy/api/imgur/chapter/aBFoc47"
       }
     },
+    "72": {
+      "title": "Round 4, Match 2",
+      "volume": "4",
+      "last_updated": "1744998907",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DZwhKPv"
+      }
+    },
     "30.5": {
       "title": "Side Story 01",
       "volume": "2",
@@ -860,6 +868,32 @@
       "last_updated": "1744502395",
       "groups": {
         "": "/proxy/api/imgur/chapter/IJSWoH8"
+      }
+    },
+    "72.69": {
+      "title": "CC x KAT Bonus + Teaser Part 1",
+      "volume": "4",
+      "last_updated": "1744998928",
+      "groups": {
+        "": [
+          "https://i.redd.it/zsofsdhzw3pe1.png",
+          "",
+          "https://i.redd.it/kxoelbl604pe1.png",
+          "",
+          "https://i.redd.it/re1jso4l04pe1.png",
+          "",
+          "https://i.redd.it/op4gn4ql24pe1.jpg",
+          "",
+          "https://i.redd.it/mhav65zg34pe1.png",
+          "",
+          "https://i.redd.it/whfvulgi34pe1.png",
+          "",
+          "https://i.redd.it/h0clqiw844pe1.png",
+          "",
+          "https://i.redd.it/6i53s4db44pe1.png",
+          "",
+          "https://i.redd.it/ygn5q8hk54pe1.png"
+        ]
       }
     }
   }
